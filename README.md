@@ -54,12 +54,16 @@ RegisterNumber:25018849
  
   endmodule
 **RTL realization**
-<img width="824" height="426" alt="Screenshot 2025-10-20 151527" src="https://github.com/user-attachments/assets/d4adac32-a147-4354-b7e6-6a603da2ef34" />
+
+<img width="1920" height="1080" alt="Screenshot 2025-10-21 215545" src="https://github.com/user-attachments/assets/f7110d9b-46b8-4fba-9331-f9a0b149e9fb" />
+
 
 **Output:**
 
 **RTL**
-<img width="828" height="534" alt="Screenshot 2025-10-20 151543" src="https://github.com/user-attachments/assets/12e5888b-8572-462b-b667-1c94d8fb8066" />
+
+<img width="1920" height="1080" alt="Screenshot 2025-10-21 215719" src="https://github.com/user-attachments/assets/348f3da0-eed8-441f-b8a0-a2b63efbab35" />
+
 
 **Timing Diagram**
 
